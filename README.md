@@ -8,12 +8,6 @@
 
 This repository contains the implementation of an advanced deep learning approach for automatic classification of leukemic cells, as described in the paper: **"Enhanced Leukemia Cell Classification Using Attention-Based CNN and Advanced Augmentation"**. The proposed model combines the EfficientNetV2-B3 architecture with attention mechanisms to achieve state-of-the-art performance in distinguishing between normal and malignant cells in blood samples.
 
-<p align="center">
-  <img src="https://github.com/username/leukemia-classification/blob/main/images/attention_visualization.png" alt="Visualization of attention maps" width="600"/>
-  <br>
-  <em>Example of attention visualization from our model</em>
-</p>
-
 ## 🔬 Research Context
 
 Acute lymphoblastic leukemia (ALL) is the most common childhood cancer, with early diagnosis being crucial for successful treatment. Traditional diagnosis requires manual examination of blood smears by experts, which can be time-consuming and subject to inter-observer variability.
